@@ -1,1 +1,1 @@
-research
+You can download polyvore dataset here: https://github.com/xthan/polyvore-dataset
